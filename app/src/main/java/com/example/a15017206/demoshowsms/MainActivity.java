@@ -42,10 +42,6 @@ public class MainActivity extends AppCompatActivity {
                     return;
                 }
 
-
-
-
-
                 // Create all messages URI
                 Uri uri = Uri.parse("content://sms");
                 // The columns we want
